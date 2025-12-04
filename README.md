@@ -1,5 +1,5 @@
 # AbortCommand
-This simple program adds a context-menu option for beacon's in CobaltStrike. The option "Abort Command" will clear the selected beacon's command queue.
+This simple program adds a context-menu option for beacons in CobaltStrike. The option "Abort Command" will clear the selected beacon's command queue.
 This is equivalent to using the ```clear``` command from the beacon terminal. 
 
 # Usage
