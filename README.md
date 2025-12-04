@@ -12,4 +12,4 @@ This adds flexibility for operators to cancel potentially erroneous or detriment
 ![](https://github.com/PN-Tester/AbortCommand/blob/main/demo_abort.PNG)
 
 # Installation
-Git clone the report or download just the AbortCommand.cna file. From CobaltStrike, navigate to the "Cobalt Strike" -> "Script Manager". Then use the "Load" button and select the aggressor script. The context menu for beacon's will now include the "Abort Command" capability.
+Git clone the repo or download just the AbortCommand.cna file. From CobaltStrike, navigate to the "Cobalt Strike" -> "Script Manager". Then use the "Load" button and select the aggressor script. The context menu for beacon's will now include the "Abort Command" capability.
