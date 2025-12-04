@@ -6,7 +6,7 @@ This is equivalent to using the ```clear``` command from the beacon terminal.
 This adds flexibility for operators to cancel potentially erroneous or detrimental commands using only a mouse. 
 - Avoid fumbling the ```clear``` command in high-stress scenarios with limited time between beacon sleep cycles
 - Target beacon does not need to be opened via "interact"
-- Multiple beacons can be selected at once. The "Abort Command" operation will apply to all of them silmultaneously
+- Multiple beacons can be selected at once. The "Abort Command" operation will apply to all of them simultaneously
 
 # Example
 ![](https://github.com/PN-Tester/AbortCommand/blob/main/demo_abort.PNG)
