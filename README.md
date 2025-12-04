@@ -9,7 +9,7 @@ This adds flexibility for operators to cancel potentially erroneous or detriment
 - Multiple beacons can be selected at once. The "Abort Command" operation will apply to all of them silmultaneously
 
 # Example
-[](https://github.com/PN-Tester/AbortCommand/blob/main/demo_abort.PNG)
+()[https://github.com/PN-Tester/AbortCommand/blob/main/demo_abort.PNG]
 
 # Installation
 Git clone the report or download just the AbortCommand.cna file. From CobaltStrike, navigate to the "Cobalt Strike" -> "Script Manager". Then use the "Load" button and select the aggressor script. The context menu for beacon's will now include the "Abort Command" capability.
